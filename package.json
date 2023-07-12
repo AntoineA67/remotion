@@ -23,7 +23,7 @@
   "dependencies": {
     "turbo": "1.10.6"
   },
-  "workspaces": [
+  "files": [
     "packages/*"
   ],
   "packageManager": "pnpm@8.5.1"
